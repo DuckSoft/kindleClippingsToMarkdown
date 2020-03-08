@@ -4,7 +4,7 @@
 
 Copy 自 https://github.com/duarteocarmo/my-personal-zen
 
-原脚本不支持中文，简单改了下，先已经支持中午。
+原脚本不支持中文，简单改了下，现已经支持中午。
 
 原介绍链接：https://duarteocarmo.com/misc/2020/02/25/kindle-python.html
 
