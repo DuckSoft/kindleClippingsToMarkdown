@@ -1,4 +1,4 @@
-# kindleClippings_highlight_parser
+# kindleClippingsToMarkdown
 
 本Python3脚本功能：将Kindle 标注文件转化为Markdown文件。
 
