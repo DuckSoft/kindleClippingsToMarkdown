@@ -13,7 +13,7 @@ Copy 自 https://github.com/duarteocarmo/my-personal-zen
 
 ## 下载脚本文件
 
-kindleClippings_highlight_parser
+[kindleClippings_highlight_parser](https://github.com/sandylaw/kindleClippings_highlight_parser/blob/master/kindleClippings_highlight_parser.py)
 
 ## 转换
 
