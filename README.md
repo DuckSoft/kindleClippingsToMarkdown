@@ -1,0 +1,2 @@
+# kindleClippings_highlight_parser
+Kindle 标注文件转Markdown脚本，python3，支持中文
